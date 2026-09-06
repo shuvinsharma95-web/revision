@@ -1,0 +1,16 @@
+ 1013  git branch
+ 1014  git push origin master
+ 1015  git push origin dev
+ 1016  git log
+ 1017  git log --online
+ 1018  git log --oneline
+ 1019  git status 
+ 1020  git switch master
+ 1021  git status 
+ 1022  git branch
+ 1023  git log
+ 1024  git status 
+ 1025  git branch
+ 1026  git switch dev
+ 1027  git history
+ 1028  git history
